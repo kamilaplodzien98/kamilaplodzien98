@@ -8,12 +8,20 @@ Experienced in month-end closing, reconciliations, variance analysis and audit s
 
 Recently completed a Data Science & AI course, expanding my expertise in Python, data analytics and machine learning.
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-Finance: R2R • Financial Reporting • Variance Analysis • Reconciliations • SAP S/4HANA
+**Finance & Business**
+R2R · Financial Reporting · Variance Analysis · Balance Sheet Reconciliations · Audit Support · SAP S/4HANA
 
-Data & Technology: Python • Pandas • NumPy • Data Visualization • Machine Learning • AI
+**Data Analytics & Technology**
+Python · Pandas · NumPy · Jupyter Notebook · Data Visualization · Machine Learning · AI
 
-📊 Projects
+## 📊 Featured Projects
 
-Explore my projects combining financial knowledge, data analytics and predictive modeling to address real-world business challenges.
+- *[Movie Investment Analysis](https://github.com/kamilaplodzien98/movie-investment-analysis)* — Financial performance, ROI and data analysis.
+- *[HR Attrition & Financial Analysis](https://github.com/kamilaplodzien98/hr-attrition-financial-analysis)* — Employee attrition and its financial implications.
+- *[Company Bankruptcy Prediction](https://github.com/kamilaplodzien98/company-bankruptcy-prediction)* — Financial risk analysis and machine learning.
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/kamila-plodzien)
